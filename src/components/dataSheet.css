@@ -1,0 +1,12 @@
+.response_row {
+  /* --dsg-selection-background-color: red; */
+  --dsg-selection-border-color: rgb(199, 52, 187);
+
+  --dsg-cell-background-color: yellow;
+}
+.response_data_row {
+  /* --dsg-selection-background-color: red; */
+  /* --dsg-selection-border-color: rgb(199, 52, 187); */
+
+  --dsg-cell-background-color: red;
+}
