@@ -74,7 +74,6 @@ export function DataSheet() {
       var CurrentDate = new Date();
       publishDate = new Date(publishDate);
       expiryDate = new Date(expiryDate);
-
       return (
         publishDate && CurrentDate > publishDate && CurrentDate < expiryDate
       );
